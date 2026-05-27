@@ -50,7 +50,7 @@ Applied passive OSINT methodology to analyse real-world phishing infrastructure 
 
 Volunteered informal security advisory for a small business. Identified critical gaps including weak password hygiene, absence of MFA, and no Zero Trust policy. Performed threat modelling using MITRE ATT&CK framework and recommended Bitwarden, Brave browser, and third-party penetration testing prior to internal application deployment.
 
-Key outcome: declined an informal request for unauthorised testing and escalated through proper authorisation channels — demonstrating professional ethics under social pressure.
+Key outcome: declined an informal request for unauthorised testing and escalated through proper authorisation channels; demonstrating professional ethics under social pressure.
 
 See the `advisory/` folder for the anonymised case study.
 
@@ -60,12 +60,12 @@ See the `advisory/` folder for the anonymised case study.
 
 Selected hands-on labs completed as part of UTS Cybersecurity coursework (2026):
 
-- **Network Attack Simulation** — ARP cache poisoning and ICMP traffic analysis
-- **Network Analysis & Reconnaissance** — Wireshark packet analysis, Nmap and Netcraft scanning
-- **Web Application Security Testing** — SQL injection and input validation analysis
-- **Password Cracking & Cryptography** — John the Ripper and OpenSSL practice
-- **TCP/IP Attacks** — TCP RST, ICMP blind reset, source quench, session hijacking
-- **Snort IDS/IPS** — custom rules, alert configuration, IPS mode, Juniper SRX integration
+- **Network Attack Simulation** - ARP cache poisoning and ICMP traffic analysis
+- **Network Analysis & Reconnaissance** - Wireshark packet analysis, Nmap and Netcraft scanning
+- **Web Application Security Testing** - SQL injection and input validation analysis
+- **Password Cracking & Cryptography** - John the Ripper and OpenSSL practice
+- **TCP/IP Attacks** - TCP RST, ICMP blind reset, source quench, session hijacking
+- **Snort IDS/IPS** - custom detection rules, alert configuration, IPS mode, Juniper SRX integration
 
 See the `university/` folder for write-ups.
 
