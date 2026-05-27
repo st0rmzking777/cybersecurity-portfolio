@@ -8,8 +8,6 @@ Cybersecurity portfolio showcasing independent home lab projects, university cou
 
 Bachelor of Cybersecurity student at the University of Technology Sydney (UTS), building hands-on skills in detection engineering, SOC analysis, threat modelling, and security advisory work through independent projects and university coursework.
 
-**Career direction:** SOC Analyst → Security Engineer → Purple Team → GRC → CISO
-
 ---
 
 ## Independent Projects
