@@ -98,7 +98,7 @@ The "king in the castle" principle applies; whoever holds privileged access to t
 I was informally asked to perform penetration testing on the application by parties who did not have legal authority to authorise such testing. I declined for the following reasons:
 
 - Under the **Cybercrime Act 2001 (Cth)**, unauthorised access or modification of data carries serious legal consequences
-- Verbal permission from a developer or middle management does not constitute legal authorisation — only the asset owner can authorise testing in writing
+- Verbal permission from a developer or middle management does not constitute legal authorisation; only the asset owner can authorise testing in writing
 - Unauthorised testing, even with informal consent, would constitute a serious professional and legal breach
 - Future career credibility in cybersecurity requires strict adherence to authorised testing only
 
