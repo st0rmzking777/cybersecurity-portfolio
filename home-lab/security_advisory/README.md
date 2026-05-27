@@ -20,7 +20,7 @@ As an internal employee with cybersecurity training, I was consulted informally 
 
 ## Context
 
-- **Business type:** Small fitness business
+- **Business type:** A fitness business with a strong local and community presence
 - **Application purpose:** Internal workforce time tracking and shift management
 - **Developer:** External contractor with no third-party security validation
 - **Stakeholders:** Business owner (privileged access), middle management, casual staff
