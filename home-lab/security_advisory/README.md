@@ -139,9 +139,9 @@ The business owner acknowledged the risks and engaged in dialogue regarding the 
 
 ## Reflection
 
-Real-world cybersecurity work is far less about dramatic technical action and more about judgement under pressure; navigating people, politics, ambiguity, and incomplete information while making sound calls. The hardest decision in this situation was not technical. It was declining a request from people I work with daily while still maintaining the relationships and credibility needed to keep advising them.
+Real-world cybersecurity work is far less about dramatic technical action and more about judgement under pressure; navigating people, politics, ambiguity, and incomplete information while making sound calls. The hardest decision in this situation was not technical. It was declining a request from people I know while still maintaining the relationships and credibility needed to keep advising them.
 
-This case reinforced that authorisation, communication, and ethics are inseparable from technical work in security. Tools are taught. Judgement is built through situations like this.
+This case reinforced that authorisation, communication, and ethics are inseparable from technical work in security. Tools can be learned, taught and developed. Judgement is built through situations like this one.
 
 ---
 
