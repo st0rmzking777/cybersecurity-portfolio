@@ -14,7 +14,7 @@
 
 A small to medium business (SMB) was preparing to deploy an internally developed workforce management application to track casual staff shifts and payments. The application was being built by an external developer with limited independent security oversight prior to launch.
 
-As an internal employee with cybersecurity training, I was consulted informally to assess the situation. This case study documents the risks identified, the threat modelling performed, the ethical decisions made, and the recommendations escalated through proper channels.
+After a colleague raised concerns about the security of an upcoming internal application, I took it upon myself to assess the situation from a cybersecurity standpoint. This case study covers the risks I identified, the threat modelling I performed, the ethical decisions I stood by, and how I ensured everything was escalated through the right channels.
 
 ---
 
