@@ -26,7 +26,7 @@ A standalone Python threat intelligence tool built on Kali Linux that aggregates
 - Generates structured threat assessments with severity ratings
 - Built and tested on both Kali Linux and Windows 
 
-See the `project-stormbreaker/` folder for documentation and architecture overview.
+See the `st0rmzking777/cybersecurity-portfolio/homelab/project-stormbreaker/` folder for documentation and architecture overview.
 
 ---
 
@@ -50,7 +50,7 @@ A three-phase independent lab project simulating real-world phishing attacks and
 - Custom detection rules and alert correlation
 - Mapping detections back to MITRE ATT&CK techniques
 
-See the `project-kingfisher/` folder for documentation, methodology, and detection logic.
+See the `st0rmzking777/cybersecurity-portfolio/homelab/project-kingfisher/` folder for documentation, methodology, and detection logic.
 
 ---
 
@@ -76,7 +76,7 @@ Provided informal security advisory for a community-based fitness and wellness b
 
 **Key outcome:** Declined an informal request for unauthorised testing and escalated through proper authorisation channels; demonstrating professional ethics under social pressure.
 
-See the `security_advisory/` folder for the anonymised case study.
+See the `st0rmzking777/cybersecurity-portfolio/homelab/security_advisory/` folder for the anonymised case study.
 
 ---
 
@@ -91,7 +91,7 @@ Selected hands-on labs completed as part of UTS Cybersecurity coursework (2026):
 - **TCP/IP Attacks** - TCP RST, ICMP blind reset, source quench, session hijacking
 - **Snort IDS/IPS** - custom detection rules, alert configuration, IPS mode, Juniper SRX integration
 
-See the `university/` folder for write-ups.
+See the `st0rmzking777/cybersecurity-portfolio/university/` folder for write-ups.
 
 ---
 
