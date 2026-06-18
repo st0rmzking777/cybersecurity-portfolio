@@ -24,7 +24,7 @@ A standalone Python threat intelligence tool built on Kali Linux that aggregates
 - Queries 17 intelligence sources simultaneously including VirusTotal, URLScan.io, AbuseIPDB, MalwareBazaar, Shodan, HaveIBeenPwned, Hybrid Analysis, and more
 - Maps findings to MITRE ATT&CK techniques
 - Generates structured threat assessments with severity ratings
-- Built and tested on both Kali Linux and Windows — fully cross-platform
+- Built and tested on both Kali Linux and Windows 
 
 See the `project-stormbreaker/` folder for documentation and architecture overview.
 
