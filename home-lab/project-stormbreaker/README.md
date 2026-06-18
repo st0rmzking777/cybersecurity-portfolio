@@ -56,7 +56,7 @@ tiers are limited.
 
 ```bash
 python3 main.py 8.8.8.8
-python3 main.py example.com --analyst "Johnny" --case-id CASE-001
+python3 main.py example.com --analyst "*insert name*" --case-id CASE-001
 python3 main.py https://example.com/login
 python3 main.py 44d88612fea8a8f36de82e1278abb02f
 python3 main.py user@example.com
