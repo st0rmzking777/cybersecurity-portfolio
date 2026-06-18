@@ -6,7 +6,7 @@ Independent cybersecurity projects, threat intelligence tooling, security adviso
 
 ## About Me
 
-Cybersecurity student at UTS with hands-on experience across detection engineering, threat intelligence, OSINT, threat modelling, and security advisory work. Building skills through independent projects and real-world engagements alongside university coursework.
+Cybersecurity student at UTS with hands-on experience across detection engineering, threat intelligence, OSINT, threat modelling, and security advisory work. Demonstrating hands-on capability through independent projects and real-world engagements alongside university coursework.
 
 **Specialisations:** Blue Team Operations | SOC Analysis | Security Engineering | GRC | Cybersecurity Advisory
 
