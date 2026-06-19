@@ -45,12 +45,7 @@ export URLHAUS_API_KEY="..."         # SAME abuse.ch Auth-Key — covers URLhaus
 Note: MalwareBazaar and URLhaus both use the **single unified abuse.ch Auth-Key**
 from auth.abuse.ch and it already setted at the same value for both. Generate/regenerate it under
 Profile → Optional → Auth-Key (connecting a second login provider is recommended
-so you don't lose account access).
-
-Tip: keep these in `~/.stormbreaker.env` and `source` it each session.
-Free-tier terms change — verify current limits when you sign up. HIBP v3 needs
-a paid key, Hybrid Analysis needs an approved account, and Shodan/Censys free
-tiers are limited.
+so account access will not be lost).
 
 ## Usage
 
@@ -79,8 +74,8 @@ Open the Navigator JSON at https://mitre-attack.github.io/attack-navigator/
 | Email  | HaveIBeenPwned, EmailRep, Hunter, Ahmia |
 | Phone  | NumVerify |
 
-URLhaus (abuse.ch) tracks malware-distribution URLs and the hosts serving them —
-it catches malware infrastructure that general reputation engines can miss.
+URLhaus (abuse.ch) tracks malware-distribution URLs and the hosts serving them and
+catches malware infrastructure that general reputation engines can miss.
 
 ## Architecture
 
@@ -114,7 +109,7 @@ Three design choices worth understanding:
   handle one shape regardless of which API produced it (adapter pattern).
 - **`mitre_mapper` maps by behaviour, not just type.** It reads the threat tags
   from every source (e.g. `elf`, `mozi`, `powershell`, `coinminer`, `mshta`) and
-  maps the technique each behaviour implies — so a payload-hosting URL maps to
+  maps the technique each behaviour implies, so a payload-hosting URL maps to
   T1105 Ingress Tool Transfer, not a blanket "spearphishing link." It ships a
   built-in ATT&CK catalog (fast, offline) with optional `mitreattack-python`
   STIX enrichment for power users.
