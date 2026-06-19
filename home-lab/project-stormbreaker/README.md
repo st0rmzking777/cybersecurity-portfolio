@@ -9,7 +9,7 @@ email, or phone number) and it:
 3. maps findings to **MITRE ATT&CK**,
 4. generates **threat-hunting hypotheses** and an **investigation workflow**,
 5. engineers **Wazuh + Sigma detection rules**,
-6. profiles possible (low-confidence) **threat-actor** associations,
+6. profiles possible **threat-actor** associations,
 7. and emits a **colour-coded terminal report**, a **professional PDF**, an
    **ATT&CK Navigator layer**, and **raw JSON logs**.
 
