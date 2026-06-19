@@ -129,18 +129,6 @@ Three design choices worth understanding:
 - **Findings are decision support, not ground truth.** Absence of detections is
   not proof an indicator is safe.
 
-## Roadmap status
-
-- [x] Step 1 - structure + config
-- [x] Step 2 - requirements
-- [x] Step 3 - all source modules (18)
-- [x] Step 4 - intelligence layer (mitre_mapper, hypothesis_generator, detection_engineer, apt_profiler)
-- [x] Step 5 - terminal output (Rich)
-- [x] Step 6 - main.py orchestrator
-- [x] Step 7 - PDF report generator
-- [x] Step 8 - ATT&CK Navigator export
-- [x] Step 9 - documentation
-
 ## Changelog
 
 **v0.2 (current)**
