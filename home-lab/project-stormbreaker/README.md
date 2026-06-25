@@ -34,7 +34,6 @@ export IPINFO_API_KEY="..."          # optional, raises rate limit
 export URLSCAN_API_KEY="..."         # optional, search works keyless
 export HIBP_API_KEY="..."            # PAID key required for v3
 export HYBRID_ANALYSIS_API_KEY="..." # needs an approved account
-export EMAILREP_API_KEY="..."        # optional, keyless but rate-limited
 export HUNTER_API_KEY="..."
 export NUMVERIFY_API_KEY="..."
 export CENSYS_API_ID="..."  ; export CENSYS_API_SECRET="..."
@@ -71,7 +70,7 @@ Open the Navigator JSON at https://mitre-attack.github.io/attack-navigator/
 | Domain | VirusTotal, URLScan, Shodan, WHOIS, DNS, Wayback, OSINT (dorks+SSL), Ahmia |
 | URL    | VirusTotal, URLScan, Wayback, OSINT, URLhaus |
 | Hash   | VirusTotal, MalwareBazaar, Hybrid Analysis, Ahmia |
-| Email  | HaveIBeenPwned, EmailRep, Hunter, Ahmia |
+| Email  | HaveIBeenPwned, Hunter, Ahmia |
 | Phone  | NumVerify |
 
 URLhaus (abuse.ch) tracks malware-distribution URLs and the hosts serving them and
