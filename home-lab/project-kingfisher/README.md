@@ -18,16 +18,6 @@ All techniques demonstrated are for educational purposes only.
 | Windows 10 x64 | Victim | Windows 10 | 192.168.18.128 |
 | Ubuntu_Ult | Defender | Ubuntu Server 22.04.5 LTS | 192.168.18.130 |
 
-## Lab Environment (Updated) - 20/6/2026
- 
-| VM | Role | OS | IP |
-| --- | --- | --- | --- |
-| Kali_Linux | Attacker | Kali Linux | 192.168.152.129 |
-| Windows 10 x64 | Victim / Wazuh Agent | Windows 10 Home N | 192.168.152.137 |
-| Ubuntu_Ult | Defender / Wazuh Manager | Ubuntu Server 22.04.5 LTS | 192.168.152.138 |
- 
-> **Note:** Lab subnet migrated from `192.168.18.x` to `192.168.152.x` after the VM files were relocated.
-
 ## Phases
 
 | Phase | Focus | Status |
