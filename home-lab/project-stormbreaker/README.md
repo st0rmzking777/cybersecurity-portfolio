@@ -17,10 +17,10 @@ email, or phone number) and it:
 
 > Real, live indicators caught by Stormbreaker.
 
-![WannaCry ransomware hash — 65/75 engines, T1486 Data Encrypted for Impact](assets/showcase-wannacry.png)
+![WannaCry ransomware hash → 65/75 engines, T1486 Data Encrypted for Impact](assets/showcase-wannacry.png)
 *WannaCry ransomware sample: 65/75 VirusTotal engines, MalwareBazaar family-confirmed, CVE-2017-0147 (EternalBlue), High-confidence T1486.*
 
-![Mozi/Mirai payload host — 196.189.9.233](assets/showcase-mozi-ip.png)
+![Mozi/Mirai payload host → 196.189.9.233](assets/showcase-mozi-ip.png)
 *Mirai/Mozi IoT botnet infrastructure on AS24757 (Ethio Telecom): 103 known malicious URLs hosted, 2 live at scan time, active since April 2024.*
 
 ![Emotet/Gh0stRAT MSI dropper](assets/showcase-emotet.png)
