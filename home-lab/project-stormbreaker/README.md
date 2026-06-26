@@ -88,7 +88,7 @@ For convenience, drop them all in a file (e.g. `~/.stormbreaker.env`) and
 # ...repeat for any other keys you hold
 ```
 
-> `User`-scope variables only load in a **new** shell — close and reopen
+> `User`-scope variables only load in a **new** shell then close and reopen
 > PowerShell after setting them. For a quick, session-only test instead, use
 > `$env:VT_API_KEY = "..."` (lasts until you close the window).
 
