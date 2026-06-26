@@ -17,7 +17,7 @@ Cybersecurity student at UTS with hands-on experience across detection engineeri
 ### Project Stormbreaker - Threat Intelligence & IOC Scanning Platform
 *June 2026 - current*
 
-A standalone Python threat intelligence tool built on Kali Linux that aggregates data from 17 OSINT and threat intelligence sources to analyse indicators of compromise. Designed to replicate real-world SOC analyst and threat intelligence workflows.
+A standalone Python threat intelligence tool built on Kali Linux that aggregates data from 16 OSINT and threat intelligence sources to analyse indicators of compromise. Designed to replicate real-world SOC analyst and threat intelligence workflows.
 
 **Capabilities:**
 - Accepts URLs, IP addresses, file hashes, email addresses, and domains as input
